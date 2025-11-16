@@ -28,9 +28,9 @@ export async function callGemini(messages, userPrompt) {
       },
     });
 
-    console.log("result->", result.response.text() )
+    // console.log("result->", result.response.text() )
 
-    return result.response.text(); // return plain text
+    return result.response.text(); 
   } catch (err) {
     console.error("Gemini API Error:", err);
     return "⚠️ AI Error: Unable to process your message.";

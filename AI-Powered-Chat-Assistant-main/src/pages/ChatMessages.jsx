@@ -7,7 +7,7 @@ function ChatMessages({ messages }) {
       {messages.map((m, i) => (
         <div key={i} className={`flex ${m.role === "user" ? "justify-end" : "justify-start"}`}>
           <div
-            className={`max-w-[80%] modal-description px-2 py-1 md:px-4 md:py-3 rounded-xl shadow-sm ${m.role === "user"
+            className={`max-w-[80%]  px-2 py-1 md:px-4 md:py-4 rounded-xl shadow-sm ${m.role === "user"
                 ? "bg-indigo-600 text-white"
                 : "bg-white border text-black"
               }`}

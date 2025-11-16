@@ -81,7 +81,7 @@ export function AppSidebar(props) {
       <SidebarContent>
         {/* <NavMain items={data.navMain} /> */}
 
-        {/* ⭐ FIXED: all actions wrapped with dispatch */}
+
         <NavProjects
           sessions={sortedSessions}
           activeSessionId={activeSessionId}
