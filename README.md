@@ -39,8 +39,8 @@ A responsive multi-session AI chat app built with **React**, **Redux Toolkit**, 
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/ai-chat-app.git
-cd ai-chat-app
+git clone git@github.com:saifriaz001/ai-chat-app.git
+cd ai-chat-app/AI-Powered-Chat-Assistant-main
 ```
 ### 2. Install dependencies
 
@@ -62,8 +62,6 @@ npm run dev
 ```
 - Then open: http://localhost:5173/
 
-A modern **Voice Notes Journal** built with React, Redux, Node.js, and Gemini AI.  
-Record, store, and summarize your voice notes with a clean UI and Cloudinary integration for audio storage.  
 
 ---
 
