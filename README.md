@@ -77,15 +77,15 @@ Record, store, and summarize your voice notes with a clean UI and Cloudinary int
 ## Screenshots
 
 ### Home (Recent Notes)
-![Home Page](./assets/screenshots/Chat-Assistant-Home.png)
+![Home Page](./AI-Powered-Chat-Assistant-main/assets/screenshots/Chat-Assistant-Home.png)
 
 
 ### Home for Medium Screen
-![Home Page](./assets/screenshots/Chat-Assistant-Home-md.png)
+![Home Page](./AI-Powered-Chat-Assistant-main/assets/screenshots/Chat-Assistant-Home-md.png)
 
 ### Home & SideBar for mobile Screen
-![Home Page](./assets/screenshots/Chat-Assistant-mobile-sidebar.png)
-![Side Page](./assets/screenshots/Chat-Assistant-mobile.png)
+![Home Page](./AI-Powered-Chat-Assistant-main/assets/screenshots/Chat-Assistant-mobile-sidebar.png)
+![Side Page](./AI-Powered-Chat-Assistant-main/assets/screenshots/Chat-Assistant-mobile.png)
 
 
 
