@@ -74,7 +74,7 @@ npm run dev
 
 ## Screenshots
 
-### Home (Recent Notes)
+### Home 
 ![Home Page](./AI-Powered-Chat-Assistant-main/assets/screenshots/Chat-Assistant-Home.png)
 
 
